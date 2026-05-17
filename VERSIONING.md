@@ -18,4 +18,5 @@
 ### Sign-off
 - Provider: AI Vision Service – Nhóm 14 ✓
 - Consumer: Camera Stream Service – Nhóm 14 ✓
+- Witness: FIT4110 Teaching Team ✓
 - Date: 2026-05-17
